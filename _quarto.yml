@@ -6,9 +6,9 @@ project:
     - handout.qmd
     - exercise.qmd
   resources:
-    - Visualize_It_Handout.pdf
-    - dlf-data-visualization.pptx
-    - collection_expenditures.csv
+    - materials/Visualize_It_Handout.pdf
+    - materials/dlf-data-visualization.pptx
+    - data/collection_expenditures.csv
 
 lang: en
 

@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "exercise.html",
+    "href": "exercise.html",
+    "title": "Exercise: Build-a-Chart",
+    "section": "",
+    "text": "In this exercise you won’t draw a chart from scratch. Instead, you’ll choose a story and then stack ready-made layers in Miro to build the chart that tells it. Every choice is a design decision, and you should be ready to explain why you made it.\nThere’s more than one right answer, and a few wrong ones."
+  },
+  {
+    "objectID": "exercise.html#how-it-works",
+    "href": "exercise.html#how-it-works",
+    "title": "Exercise: Build-a-Chart",
+    "section": "How it works",
+    "text": "How it works\n\nPick a story. Read the data below with your partner and finish this sentence: “The story I want to tell is…”\nBuild it. In the Miro board, stack one layer for each design decision on your build frame.\nJustify it. Add a sticky note next to your chart explaining why you chose each layer.\nReview. Swap with another pair and evaluate their chart using the checklist. Find at least one strength and one thing to fix.\n\n\n\n\n\n\n\nTipBuilding tips\n\n\n\n\nChoose your measure first. The chart layers are grouped by measure: pick from the dollars drawer or the percent drawer, so your data matches your axis.\nChart type and color come as one layer. Find the row for your chart type and the column for your color.\nLine up each layer. Every layer is 1600 × 1000. Set its width and height to match, and give it the same X/Y position as your build frame."
+  },
+  {
+    "objectID": "exercise.html#the-data",
+    "href": "exercise.html#the-data",
+    "title": "Exercise: Build-a-Chart",
+    "section": "The data",
+    "text": "The data\nU.S. public library spending on collections, by material type, for fiscal years 2015–2024. These are national totals for all public library systems in the 50 states and DC.\n\nPrint materials: books, serials and other print items.\nE-materials: e-books, e-audio, e-video, databases and other electronic content.\nOther materials: physical formats that aren’t print, such as DVDs, audio CDs and microform.\n\n\nPublic library collection expenditures by material type, FY2015–FY2024, in millions of current dollars and as a percent of each year’s total.\n\n\n\n\n\n\n\n\n\n\n\n\nFiscal year\nPrint ($M)\nPrint (%)\nE-materials ($M)\nE-materials (%)\nOther ($M)\nOther (%)\nTotal ($M)\n\n\n\n\n2015\n756\n57.6\n301\n23.0\n255\n19.4\n1,312\n\n\n2016\n756\n56.1\n342\n25.3\n250\n18.6\n1,348\n\n\n2017\n754\n54.8\n374\n27.2\n248\n18.0\n1,376\n\n\n2018\n755\n53.3\n419\n29.6\n243\n17.1\n1,417\n\n\n2019\n761\n52.6\n449\n31.0\n236\n16.3\n1,447\n\n\n2020\n658\n47.3\n544\n39.1\n189\n13.6\n1,390\n\n\n2021\n666\n46.3\n595\n41.4\n177\n12.3\n1,437\n\n\n2022\n718\n47.3\n619\n40.8\n180\n11.8\n1,517\n\n\n2023\n751\n47.1\n672\n42.2\n170\n10.7\n1,594\n\n\n2024\n741\n45.8\n724\n44.7\n155\n9.6\n1,620\n\n\n\nSource: Institute of Museum and Library Services, Public Libraries Survey, FY2015–FY2024 (public domain). Amounts are in current dollars, not adjusted for inflation.\nDownload the data (CSV)"
+  },
+  {
+    "objectID": "exercise.html#questions-to-discuss",
+    "href": "exercise.html#questions-to-discuss",
+    "title": "Exercise: Build-a-Chart",
+    "section": "Questions to discuss",
+    "text": "Questions to discuss\n\nDoes your measure match your story? When does a percent tell a different story than a dollar amount?\nDoes your chart type fit what you want to show: a part-to-whole, or a change over time?\nDoes every use of color have a reason? Would your chart work for a colorblind reader, or in grayscale?\nCan a reader understand your chart without looking back and forth to a legend?\nCan someone state your main takeaway in 5 seconds from the title?\nIs your chart honest? Think about what “current dollars” means over ten years.\n\nSee the companion guide for the practices behind each decision."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Visualize It: Designing Impactful and Accessible Data Visualizations",
+    "section": "",
+    "text": "Data visualization is essential in library work, yet few practitioners receive formal training in it. This workshop equips library professionals at any level with a practical foundation in the design of accessible and effective data visualizations, combining theory with hands-on practice, leaving participants with a framework they can immediately apply."
+  },
+  {
+    "objectID": "index.html#about-this-workshop",
+    "href": "index.html#about-this-workshop",
+    "title": "Visualize It: Designing Impactful and Accessible Data Visualizations",
+    "section": "",
+    "text": "Data visualization is essential in library work, yet few practitioners receive formal training in it. This workshop equips library professionals at any level with a practical foundation in the design of accessible and effective data visualizations, combining theory with hands-on practice, leaving participants with a framework they can immediately apply."
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "Visualize It: Designing Impactful and Accessible Data Visualizations",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\nAfter completing this workshop, attendees will be able to:\n\nExplain how principles of visual perception inform effective data visualization design.\nEvaluate a data visualization by identifying specific design and accessibility strengths and weaknesses using a structured framework.\nApply design principles, such as color selection, typography, labeling, and accessibility guidelines to revise a data visualization for clarity and impact."
+  },
+  {
+    "objectID": "index.html#workshop-materials",
+    "href": "index.html#workshop-materials",
+    "title": "Visualize It: Designing Impactful and Accessible Data Visualizations",
+    "section": "Workshop materials",
+    "text": "Workshop materials\n\nSlides: Download the slides\nInteractive exercise: Build-a-Chart instructions and data · Open the Miro board\nGuide: Data Visualization Recommended Practices (web page) or the printable PDF"
+  },
+  {
+    "objectID": "handout.html",
+    "href": "handout.html",
+    "title": "Data Visualization Recommended Practices",
+    "section": "",
+    "text": "Printable PDF guide (2 pages, US Letter; opens in a new tab)"
+  },
+  {
+    "objectID": "handout.html#know-your-message",
+    "href": "handout.html#know-your-message",
+    "title": "Data Visualization Recommended Practices",
+    "section": "1. Know your message",
+    "text": "1. Know your message\n\nFind your story. Decide what you want the reader to learn before you choose a chart.\nMatch the chart to the story. Visit the Data Viz Catalogue for help choosing the right visualization for what you want to show. Some examples:\n\nComparison: bar chart\nTrend over time: line chart\nPart-to-whole: stacked bar chart, donut chart or pie chart (best with five or fewer categories)"
+  },
+  {
+    "objectID": "handout.html#keep-it-simple-and-clear",
+    "href": "handout.html#keep-it-simple-and-clear",
+    "title": "Data Visualization Recommended Practices",
+    "section": "2. Keep it simple and clear",
+    "text": "2. Keep it simple and clear\n\nRemove “chart-junk.” Delete unnecessary borders, backgrounds, gridlines, and 3D effects. If an element can be removed without losing information, remove it.\nLabel everything, or explain it in the caption. This includes axis labels (with units), legends, and the data source.\nMake text readable. Use fonts large enough to read when printed or displayed.\nOrder categories meaningfully. Sort bars by value rather than alphabetically, unless there is a natural order such as time or age group.\nUse direct labeling when possible. Label lines and bars directly instead of making readers look back and forth to a legend. If you must use a legend, order it to match the order of the data.\nSplit complex charts into several smaller charts, one for each value of a variable. For example, instead of using color to show five regions in one chart, make one panel per region (also called facets or trellis plots). Use the same axes in every panel so they’re easy to compare."
+  },
+  {
+    "objectID": "handout.html#use-color-with-purpose",
+    "href": "handout.html#use-color-with-purpose",
+    "title": "Data Visualization Recommended Practices",
+    "section": "3. Use color with purpose",
+    "text": "3. Use color with purpose\n\nEvery use of color needs a reason. Color should highlight data, or represent values, not decorate.\nLimit categorical colors to six. If you need more, collapse categories into groups or simplify to a single muted color plus one highlight accent.\nKeep colors consistent across charts. If “Region: Midwest” is blue on one chart, it should be blue on all other charts.\nAvoid rainbow palettes for quantitative information. They create false boundaries and are hard to put in order.\nTip: View your chart in grayscale. Is it still understandable?"
+  },
+  {
+    "objectID": "handout.html#make-it-accessible",
+    "href": "handout.html#make-it-accessible",
+    "title": "Data Visualization Recommended Practices",
+    "section": "4. Make it accessible",
+    "text": "4. Make it accessible\n\nCheck contrast (WCAG 2.1 AA). Chart elements need at least 3:1 and text needs at least 4.5:1. Verify at webaim.org/resources/contrastchecker.\nChoose colorblind-friendly palettes. Examples (not exhaustive):\n\nCategorical: Okabe-Ito\nContinuous: Viridis\nDiverging: blue–red or blue–orange\n\nTest your chart. Use the Coblis color blindness simulator to see how your image looks with different types of color vision deficiency: color-blindness.com/coblis-color-blindness-simulator.\nWrite alt-text.\n\nSimple plots: a short summary plus a data table.\nComplex plots: a short summary plus a long description.\n\nNever rely on color alone to convey meaning.\n\nUse redundant codings, e.g., color and marker shape in a scatterplot."
+  },
+  {
+    "objectID": "handout.html#be-honest",
+    "href": "handout.html#be-honest",
+    "title": "Data Visualization Recommended Practices",
+    "section": "5. Be honest",
+    "text": "5. Be honest\n\nBe careful with axis ranges. Bar charts should start at zero because bar length encodes the value. Line and scatter charts can use a non-zero baseline when it is clearly labeled.\nDon’t use axis breaks. If outliers compress your data, use a clearly labeled logarithmic scale or add a separate zoomed-in panel.\nShow uncertainty (error bars, confidence intervals) when it matters.\nCite your data source and note any exclusions or transformations."
+  },
+  {
+    "objectID": "handout.html#a-quick-checklist",
+    "href": "handout.html#a-quick-checklist",
+    "title": "Data Visualization Recommended Practices",
+    "section": "6. A quick checklist",
+    "text": "6. A quick checklist\n\n\nCan someone state the main takeaway in 5 seconds?\nIs everything labeled that will not be explained in a caption?\nIs anything on the chart removable without losing information?\nDoes it work in grayscale and for colorblind readers?\nDoes it pass contrast checks?\nDoes it have alt-text?\nDid someone unfamiliar with the data review it?"
+  }
+]
