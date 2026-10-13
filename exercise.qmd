@@ -1,0 +1,63 @@
+---
+title: "Exercise: Build-a-Chart"
+subtitle: "Same data, your story"
+description: "Hands-on exercise for the DLF 2026 Forum workshop \"Visualize It\": choose a story, then stack layers to build the chart that tells it."
+toc: true
+toc-title: "Sections"
+---
+
+In this exercise you won't draw a chart from scratch. Instead, you'll **choose a story** and then **stack ready-made layers** in Miro to build the chart that tells it. Every choice is a design decision, and you should be ready to explain why you made it.
+
+There's more than one right answer, and a few wrong ones.
+
+## How it works
+
+1. **Pick a story.** Read the data below with your partner and finish this sentence: *"The story I want to tell is…"*
+2. **Build it.** In the [Miro board](https://bit.ly/dlf-vis-it-exercise){target="_blank" rel="noopener"}, stack one layer for each design decision on your build frame.
+3. **Justify it.** Add a sticky note next to your chart explaining *why* you chose each layer.
+4. **Review.** Swap with another pair and evaluate their chart using the [checklist](handout.qmd#a-quick-checklist). Find at least one strength and one thing to fix.
+
+::: {.callout-tip}
+## Building tips
+- **Choose your measure first.** The chart layers are grouped by measure: pick from the dollars drawer *or* the percent drawer, so your data matches your axis.
+- **Chart type and color come as one layer.** Find the row for your chart type and the column for your color.
+- **Line up each layer.** Every layer is 1600 × 1000. Set its width and height to match, and give it the same X/Y position as your build frame.
+:::
+
+## The data
+
+U.S. public library spending on collections, by material type, for fiscal years 2015–2024. These are national totals for all public library systems in the 50 states and DC.
+
+- **Print materials:** books, serials and other print items.
+- **E-materials:** e-books, e-audio, e-video, databases and other electronic content.
+- **Other materials:** physical formats that aren't print, such as DVDs, audio CDs and microform.
+
+| Fiscal year | Print (\$M) | Print (%) | E-materials (\$M) | E-materials (%) | Other (\$M) | Other (%) | Total (\$M) |
+|---:|---:|---:|---:|---:|---:|---:|---:|
+| 2015 | 756 | 57.6 | 301 | 23.0 | 255 | 19.4 | 1,312 |
+| 2016 | 756 | 56.1 | 342 | 25.3 | 250 | 18.6 | 1,348 |
+| 2017 | 754 | 54.8 | 374 | 27.2 | 248 | 18.0 | 1,376 |
+| 2018 | 755 | 53.3 | 419 | 29.6 | 243 | 17.1 | 1,417 |
+| 2019 | 761 | 52.6 | 449 | 31.0 | 236 | 16.3 | 1,447 |
+| 2020 | 658 | 47.3 | 544 | 39.1 | 189 | 13.6 | 1,390 |
+| 2021 | 666 | 46.3 | 595 | 41.4 | 177 | 12.3 | 1,437 |
+| 2022 | 718 | 47.3 | 619 | 40.8 | 180 | 11.8 | 1,517 |
+| 2023 | 751 | 47.1 | 672 | 42.2 | 170 | 10.7 | 1,594 |
+| 2024 | 741 | 45.8 | 724 | 44.7 | 155 | 9.6 | 1,620 |
+
+: Public library collection expenditures by material type, FY2015–FY2024, in millions of current dollars and as a percent of each year's total. {.striped .hover}
+
+**Source:** Institute of Museum and Library Services, [Public Libraries Survey](https://www.imls.gov/research-evaluation/surveys/public-libraries-survey-pls){target="_blank" rel="noopener"}, FY2015–FY2024 (public domain). Amounts are in current dollars, not adjusted for inflation.
+
+[Download the data (CSV)](collection_expenditures.csv){download="collection_expenditures.csv"}
+
+## Questions to discuss
+
+- Does your **measure** match your story? When does a percent tell a different story than a dollar amount?
+- Does your **chart type** fit what you want to show: a part-to-whole, or a change over time?
+- Does every use of **color** have a reason? Would your chart work for a colorblind reader, or in grayscale?
+- Can a reader understand your chart **without looking back and forth** to a legend?
+- Can someone state your main takeaway in **5 seconds** from the title?
+- Is your chart **honest**? Think about what "current dollars" means over ten years.
+
+See the [companion guide](handout.qmd) for the practices behind each decision.

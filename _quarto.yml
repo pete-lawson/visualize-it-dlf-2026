@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - handout.qmd
+    - exercise.qmd
+  resources:
+    - Visualize_It_Handout.pdf
+    - dlf-data-visualization.pptx
+    - collection_expenditures.csv
+
+lang: en
+
+website:
+  title: "Visualize It"
+  description: "Workshop materials for \"Visualize It: Designing Impactful and Accessible Data Visualizations\" at the DLF 2026 Forum"
+  navbar:
+    background: "#7E2504"
+    foreground: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: handout.qmd
+        text: Guide
+      - href: exercise.qmd
+        text: Exercise
+  page-footer:
+    center: |
+      Peter Lawson · DLF 2026 Forum · Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){rel="license"}
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    link-external-newwindow: true
+    mainfont: "Inter, Helvetica Neue, Arial, sans-serif"

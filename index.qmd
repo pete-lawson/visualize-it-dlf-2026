@@ -1,0 +1,23 @@
+---
+title: "Visualize It: Designing Impactful and Accessible Data Visualizations"
+subtitle: "DLF 2026 Forum"
+author: "Peter Lawson"
+---
+
+## About this workshop
+
+Data visualization is essential in library work, yet few practitioners receive formal training in it. This workshop equips library professionals at any level with a practical foundation in the design of accessible and effective data visualizations, combining theory with hands-on practice, leaving participants with a framework they can immediately apply.
+
+## Learning outcomes
+
+After completing this workshop, attendees will be able to:
+
+- Explain how principles of visual perception inform effective data visualization design.
+- Evaluate a data visualization by identifying specific design and accessibility strengths and weaknesses using a structured framework.
+- Apply design principles, such as color selection, typography, labeling, and accessibility guidelines to revise a data visualization for clarity and impact.
+
+## Workshop materials
+
+- **Slides:** [Download the slides](dlf-data-visualization.pptx){download="dlf-data-visualization.pptx" target="_blank" rel="noopener"}
+- **Interactive exercise:** [Build-a-Chart instructions and data](exercise.qmd) · [Open the Miro board](https://bit.ly/dlf-vis-it-exercise){target="_blank" rel="noopener"}
+- **Guide:** [Data Visualization Recommended Practices](handout.qmd){target="_blank" rel="noopener"} (web page) or the [printable PDF](Visualize_It_Handout.pdf){target="_blank" rel="noopener"}
