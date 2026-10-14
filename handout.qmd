@@ -7,7 +7,7 @@ toc: true
 toc-title: "Sections"
 ---
 
-[Printable PDF guide](Visualize_It_Handout.pdf){target="_blank" rel="noopener"} (2 pages, US Letter; opens in a new tab)
+[Printable PDF guide](materials/Visualize_It_Handout.pdf){target="_blank" rel="noopener"} (2 pages, US Letter; opens in a new tab)
 
 ## 1. Know your message
 

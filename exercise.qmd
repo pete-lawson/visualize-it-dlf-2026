@@ -49,7 +49,7 @@ U.S. public library spending on collections, by material type, for fiscal years 
 
 **Source:** Institute of Museum and Library Services, [Public Libraries Survey](https://www.imls.gov/research-evaluation/surveys/public-libraries-survey-pls){target="_blank" rel="noopener"}, FY2015–FY2024 (public domain). Amounts are in current dollars, not adjusted for inflation.
 
-[Download the data (CSV)](collection_expenditures.csv){download="collection_expenditures.csv"}
+[Download the data (CSV)](data/collection_expenditures.csv){download="collection_expenditures.csv"}
 
 ## Questions to discuss
 
