@@ -2,30 +2,16 @@
   {
     "objectID": "exercise.html",
     "href": "exercise.html",
-    "title": "Exercise: Build-a-Chart",
+    "title": "Exercise: Redesign a data visualization",
     "section": "",
-    "text": "In this exercise you won’t draw a chart from scratch. Instead, you’ll choose a story and then stack ready-made layers in Miro to build the chart that tells it. Every choice is a design decision, and you should be ready to explain why you made it.\nThere’s more than one right answer, and a few wrong ones."
-  },
-  {
-    "objectID": "exercise.html#how-it-works",
-    "href": "exercise.html#how-it-works",
-    "title": "Exercise: Build-a-Chart",
-    "section": "How it works",
-    "text": "How it works\n\nPick a story. Read the data below with your partner and finish this sentence: “The story I want to tell is…”\nBuild it. In the Miro board, stack one layer for each design decision on your build frame.\nJustify it. Add a sticky note next to your chart explaining why you chose each layer.\nReview. Swap with another pair and evaluate their chart using the checklist. Find at least one strength and one thing to fix.\n\n\n\n\n\n\n\nTipBuilding tips\n\n\n\n\nChoose your measure first. The chart layers are grouped by measure: pick from the dollars drawer or the percent drawer, so your data matches your axis.\nChart type and color come as one layer. Find the row for your chart type and the column for your color.\nLine up each layer. Every layer is 1600 × 1000. Set its width and height to match, and give it the same X/Y position as your build frame."
+    "text": "In this exercise you will critique a data visualization and design an improved alternative by using the companion guide. Instead of building the data visualizaton from sratch, you will stack ready-made layers in Miro to build the chart. ## How it works"
   },
   {
     "objectID": "exercise.html#the-data",
     "href": "exercise.html#the-data",
-    "title": "Exercise: Build-a-Chart",
+    "title": "Exercise: Redesign a data visualization",
     "section": "The data",
     "text": "The data\nU.S. public library spending on collections, by material type, for fiscal years 2015–2024. These are national totals for all public library systems in the 50 states and DC.\n\nPrint materials: books, serials and other print items.\nE-materials: e-books, e-audio, e-video, databases and other electronic content.\nOther materials: physical formats that aren’t print, such as DVDs, audio CDs and microform.\n\n\nPublic library collection expenditures by material type, FY2015–FY2024, in millions of current dollars and as a percent of each year’s total.\n\n\n\n\n\n\n\n\n\n\n\n\nFiscal year\nPrint ($M)\nPrint (%)\nE-materials ($M)\nE-materials (%)\nOther ($M)\nOther (%)\nTotal ($M)\n\n\n\n\n2015\n756\n57.6\n301\n23.0\n255\n19.4\n1,312\n\n\n2016\n756\n56.1\n342\n25.3\n250\n18.6\n1,348\n\n\n2017\n754\n54.8\n374\n27.2\n248\n18.0\n1,376\n\n\n2018\n755\n53.3\n419\n29.6\n243\n17.1\n1,417\n\n\n2019\n761\n52.6\n449\n31.0\n236\n16.3\n1,447\n\n\n2020\n658\n47.3\n544\n39.1\n189\n13.6\n1,390\n\n\n2021\n666\n46.3\n595\n41.4\n177\n12.3\n1,437\n\n\n2022\n718\n47.3\n619\n40.8\n180\n11.8\n1,517\n\n\n2023\n751\n47.1\n672\n42.2\n170\n10.7\n1,594\n\n\n2024\n741\n45.8\n724\n44.7\n155\n9.6\n1,620\n\n\n\nSource: Institute of Museum and Library Services, Public Libraries Survey, FY2015–FY2024 (public domain). Amounts are in current dollars, not adjusted for inflation.\nDownload the data (CSV)"
-  },
-  {
-    "objectID": "exercise.html#questions-to-discuss",
-    "href": "exercise.html#questions-to-discuss",
-    "title": "Exercise: Build-a-Chart",
-    "section": "Questions to discuss",
-    "text": "Questions to discuss\n\nDoes your measure match your story? When does a percent tell a different story than a dollar amount?\nDoes your chart type fit what you want to show: a part-to-whole, or a change over time?\nDoes every use of color have a reason? Would your chart work for a colorblind reader, or in grayscale?\nCan a reader understand your chart without looking back and forth to a legend?\nCan someone state your main takeaway in 5 seconds from the title?\nIs your chart honest? Think about what “current dollars” means over ten years.\n\nSee the companion guide for the practices behind each decision."
   },
   {
     "objectID": "index.html",

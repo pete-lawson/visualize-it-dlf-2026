@@ -1,28 +1,16 @@
 ---
-title: "Exercise: Build-a-Chart"
-subtitle: "Same data, your story"
-description: "Hands-on exercise for the DLF 2026 Forum workshop \"Visualize It\": choose a story, then stack layers to build the chart that tells it."
+title: "Exercise: Redesign a data visualization"
+description: "Hands-on exercise for the DLF 2026 Forum workshop \"Visualize It\"."
 toc: true
 toc-title: "Sections"
 ---
 
-In this exercise you won't draw a chart from scratch. Instead, you'll **choose a story** and then **stack ready-made layers** in Miro to build the chart that tells it. Every choice is a design decision, and you should be ready to explain why you made it.
-
-There's more than one right answer, and a few wrong ones.
-
+In this exercise you will critique a data visualization and design an improved alternative by using the [companion guide](handout.qmd). Instead of building the data visualizaton from sratch, you will stack ready-made layers in Miro to build the chart.
 ## How it works
 
-1. **Pick a story.** Read the data below with your partner and finish this sentence: *"The story I want to tell is…"*
-2. **Build it.** In the [Miro board](https://bit.ly/dlf-vis-it-exercise){target="_blank" rel="noopener"}, stack one layer for each design decision on your build frame.
-3. **Justify it.** Add a sticky note next to your chart explaining *why* you chose each layer.
-4. **Review.** Swap with another pair and evaluate their chart using the [checklist](handout.qmd#a-quick-checklist). Find at least one strength and one thing to fix.
-
-::: {.callout-tip}
-## Building tips
-- **Choose your measure first.** The chart layers are grouped by measure: pick from the dollars drawer *or* the percent drawer, so your data matches your axis.
-- **Chart type and color come as one layer.** Find the row for your chart type and the column for your color.
-- **Line up each layer.** Every layer is 1600 × 1000. Set its width and height to match, and give it the same X/Y position as your build frame.
-:::
+1. **Pick a story.** Review the data visualization and data below and think about the story you might want to tell. 
+2. **Build it.** In the [Miro board](https://bit.ly/dlf-vis-it-exercise){target="_blank" rel="noopener"}, stack one layer for each design decision on your canvas. 
+3. **Justify it.** Add a sticky note next to your chart explaining your thinking.
 
 ## The data
 
@@ -51,13 +39,4 @@ U.S. public library spending on collections, by material type, for fiscal years 
 
 [Download the data (CSV)](data/collection_expenditures.csv){download="collection_expenditures.csv"}
 
-## Questions to discuss
 
-- Does your **measure** match your story? When does a percent tell a different story than a dollar amount?
-- Does your **chart type** fit what you want to show: a part-to-whole, or a change over time?
-- Does every use of **color** have a reason? Would your chart work for a colorblind reader, or in grayscale?
-- Can a reader understand your chart **without looking back and forth** to a legend?
-- Can someone state your main takeaway in **5 seconds** from the title?
-- Is your chart **honest**? Think about what "current dollars" means over ten years.
-
-See the [companion guide](handout.qmd) for the practices behind each decision.
