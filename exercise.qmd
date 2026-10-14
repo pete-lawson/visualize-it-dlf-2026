@@ -6,7 +6,8 @@ toc-title: "Sections"
 ---
 
 In this exercise you will critique a data visualization and design an improved alternative by using the [companion guide](handout.qmd). Instead of building the data visualizaton from sratch, you will stack ready-made layers in Miro to build the chart.
-## How it works
+
+## Exercise steps
 
 1. **Pick a story.** Review the data visualization and data below and think about the story you might want to tell. 
 2. **Build it.** In the [Miro board](https://bit.ly/dlf-vis-it-exercise){target="_blank" rel="noopener"}, stack one layer for each design decision on your canvas. 
@@ -20,6 +21,9 @@ U.S. public library spending on collections, by material type, for fiscal years 
 - **E-materials:** e-books, e-audio, e-video, databases and other electronic content.
 - **Other materials:** physical formats that aren't print, such as DVDs, audio CDs and microform.
 
+![The original chart to critique and redesign.](materials/original-plot.png){fig-alt="A 3D stacked bar chart titled 'Collection Expenditures by Fiscal Year' showing U.S. public library collection spending in billions of dollars from 2015 to 2024. Each bar stacks print materials in red at the bottom, e-materials in bright green in the middle and other materials in blue on top. The chart has a heavy dark border, a yellow-to-blue gradient background, dense gridlines and a legend that lists the materials in a different order from the stacks. The same data are in the table below."}
+
+::: {.data-table}
 | Fiscal year | Print (\$M) | Print (%) | E-materials (\$M) | E-materials (%) | Other (\$M) | Other (%) | Total (\$M) |
 |---:|---:|---:|---:|---:|---:|---:|---:|
 | 2015 | 756 | 57.6 | 301 | 23.0 | 255 | 19.4 | 1,312 |
@@ -34,6 +38,7 @@ U.S. public library spending on collections, by material type, for fiscal years 
 | 2024 | 741 | 45.8 | 724 | 44.7 | 155 | 9.6 | 1,620 |
 
 : Public library collection expenditures by material type, FY2015–FY2024, in millions of current dollars and as a percent of each year's total. {.striped .hover}
+:::
 
 **Source:** Institute of Museum and Library Services, [Public Libraries Survey](https://www.imls.gov/research-evaluation/surveys/public-libraries-survey-pls){target="_blank" rel="noopener"}, FY2015–FY2024 (public domain). Amounts are in current dollars, not adjusted for inflation.
 

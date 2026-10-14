@@ -54,3 +54,31 @@ main li > ul {
   margin: 0 0.6em 0 -1.6em;
   vertical-align: -0.1em;
 }
+
+/* Exercise data table: size columns to their content so headers don't squeeze */
+.data-table table col {
+  width: auto !important;
+}
+
+.data-table table {
+  font-size: 0.875rem;
+}
+
+.data-table th {
+  vertical-align: bottom;
+}
+
+.data-table th,
+.data-table td {
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+}
+
+/* On narrow screens, scroll the table sideways instead of cutting it off */
+.data-table {
+  overflow-x: auto;
+}
+
+.data-table caption {
+  text-align: left;
+}
