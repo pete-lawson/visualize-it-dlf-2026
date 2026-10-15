@@ -7,7 +7,6 @@ project:
     - exercise.qmd
   resources:
     - materials/Visualize_It_Handout.pdf
-    - materials/dlf-data-visualization.pptx
     - data/collection_expenditures.csv
 
 lang: en
@@ -25,6 +24,8 @@ website:
         text: Guide
       - href: exercise.qmd
         text: Exercise
+      - href: https://zenodo.org/records/23396238
+        text: Slides
   page-footer:
     center: |
       Peter Lawson · Johns Hopkins University ·DLF 2026 Forum · Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){rel="license"}
