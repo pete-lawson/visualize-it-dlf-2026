@@ -19,5 +19,5 @@ After completing this workshop, attendees will be able to:
 ## Workshop materials
 
 - **Slides:** [Download the slides](https://zenodo.org/records/23396238){target="_blank" rel="noopener"}
-- **Interactive exercise:** [Build-a-Chart instructions and data](exercise.qmd) · [Open the Miro board](https://bit.ly/dlf-vis-it-exercise){target="_blank" rel="noopener"}
+- **Interactive exercise:** [Redesign a data visualization exercise instructions](exercise.qmd) · [Open the Miro board](https://bit.ly/dlf-vis-it-exercise){target="_blank" rel="noopener"}
 - **Guide:** [Data Visualization Recommended Practices](handout.qmd){target="_blank" rel="noopener"} (web page) or the [printable PDF](materials/Visualize_It_Handout.pdf){target="_blank" rel="noopener"}

@@ -26,6 +26,7 @@ website:
         text: Exercise
       - href: https://zenodo.org/records/23396238
         text: Slides
+        target: _blank
   page-footer:
     center: |
       Peter Lawson · Johns Hopkins University ·DLF 2026 Forum · Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){rel="license"}
