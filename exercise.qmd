@@ -11,7 +11,7 @@ In this exercise you will critique a data visualization and design an improved a
 
 1. **Pick a story.** Review the data visualization and data below and think about the story you might want to tell. 
 2. **Build it.** In the [Miro board](https://bit.ly/dlf-vis-it-exercise){target="_blank" rel="noopener"}, stack one layer for each design decision on your canvas. 
-3. **Justify it.** Add a sticky note next to your chart explaining your thinking.
+3. **Explain it.** Add a sticky note next to your chart explaining your thinking.
 
 ## The data
 
